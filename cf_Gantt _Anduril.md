@@ -25,4 +25,4 @@ SWITCH(
     ProjectPeriod && ProjectStatus = "Canceled", 3
 )
 RETURN
-    Result
+Result
